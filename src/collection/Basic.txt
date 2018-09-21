@@ -1,0 +1,6 @@
+Collection is kind of framework, they given many API, 
+Perform operation on data
+Provide architecture to store and maunipulate the group of objects
+Without writing the loigic--having inbuild classess or methods
+INTERFACES- Set, List, queue, Dqueue
+Class- ArrayList, Vector, linkedList, treeSet, Priority Queue
